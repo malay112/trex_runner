@@ -13,7 +13,7 @@ var gameOver,gameOverImage;
 
 var score;
 
-var jump,die,checkPoint;
+var jump,die,checkPoint
 
 
 function preload(){
